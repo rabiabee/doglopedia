@@ -22,7 +22,7 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-/*navigation styles*/
+/*navigation + text styles*/
 #nav-text {
     color: hsl(0, 1%, 30%);
     display: inline-block;
