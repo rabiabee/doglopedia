@@ -45,3 +45,12 @@ h2 {
     border-radius: 50%;
     border: 2px solid black;
 }
+
+
+/*footer styles*/
+footer {
+    padding: 15px;
+    border-top: solid rgb(210, 210, 210) 1px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
