@@ -35,6 +35,10 @@ h2 {
     text-align: center;
 }
 
+#info-box {
+    font-size: ;
+}
+
 /*image styles*/
 #img {
     display: block;
@@ -44,6 +48,7 @@ h2 {
     height: 300px;
     border-radius: 50%;
     border: 2px solid black;
+    overflow: hidden;
 }
 
 /*footer styles*/
