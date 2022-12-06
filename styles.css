@@ -1,0 +1,22 @@
+body {
+    margin: auto;
+    max-width: 600px;
+}
+
+/*header styles*/
+header {
+    width: 600px;
+    background-color: #f5f5dc;
+    color: #998661;
+    border-radius: 5px;
+    margin-top: 7px;
+    padding: 18px 0px;
+    text-align: center;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
